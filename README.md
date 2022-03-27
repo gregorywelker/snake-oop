@@ -2,6 +2,7 @@
 
 C++ implementation of the Snake game with 100% code coverage
 
+Documentation can be found in the /docs folder
 
 ## UML Diagram
 
